@@ -1,0 +1,3 @@
+[submodule "uart_core"]
+	path = uart_core
+	url = https://github.com/pevkirill/uart_core.git
